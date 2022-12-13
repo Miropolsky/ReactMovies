@@ -1,4 +1,4 @@
 # Portfolio ReactMovies
 
-[Demo](https://Miropolsky/github.io/ReactMovies).
+[Demo](https://miropolsky.github.io/ReactMovies/).
 
